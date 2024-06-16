@@ -17,9 +17,6 @@
   </a>
 </div>
 
-  <div align='center'>
-    <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=smile_b&color=dark">
-  </div>
 
   <div align='center'>
     <a href="https://velog.io/@smile_b">
