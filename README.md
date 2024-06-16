@@ -17,6 +17,20 @@
   </a>
 </div>
 
+  <div align='center'>
+    <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=smile_b&color=dark">
+  </div>
+
+  <div align='center'>
+    <a href="https://velog.io/@smile_b">
+      <img src="https://velog-readme-stats.vercel.app/api?name=smile_b" alt="Velog's GitHub stats">
+    </a>
+    <br>
+    <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40smile_b&count_bg=%237DC645&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E6C661&title=velog&edge_flat=true" alt="Hits">
+    </a>
+  </div>
+  
 ---
 
 ### :woman_technologist: About Me :
@@ -49,3 +63,7 @@ I am a FW Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimseongbeen&count_private=true&show_icons=true&theme=solarized-light)
