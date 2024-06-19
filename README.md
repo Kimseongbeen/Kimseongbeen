@@ -6,7 +6,7 @@
   <a href="https://velog.io/@smile_b">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/%EC%84%B1%EB%B9%88-%EA%B9%80-909034304">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCxlkiu9_aWijoD7BannNM7w">
@@ -38,7 +38,7 @@ I am a FW Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I am studying computer vision and communication.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kimseongbeen-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kimseongbeen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EB%B9%88-%EA%B9%80-909034304)
 
 ---
 
